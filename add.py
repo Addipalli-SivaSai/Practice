@@ -1,3 +1,3 @@
-Number_1=10
-Number_2=15
-print(Number_1+Number_2)
+A_CONSTANT=10
+B_CONSTANT=15
+print(A_CONSTANT+B_CONSTANT)

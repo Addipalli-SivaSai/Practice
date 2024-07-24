@@ -1,3 +1,3 @@
-a=10
-b=15
-print(a+b)
+Number_1=10
+Number_2=15
+print(Number_1+Number_2)
